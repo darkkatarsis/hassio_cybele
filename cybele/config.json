@@ -8,5 +8,6 @@
   "startup": "application",
   "boot": "auto",
   "host_dbus": true,
+  "init": false,
   "map": ["config"]
 }
